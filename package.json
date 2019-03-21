@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juliasleeps/weather1.git"
+    "url": "git+https://github.com/juliasleeps/weather.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/juliasleeps/weather/issues"
   },
-  "homepage": "https://github.com/juliasleeps/weather#readme"
+  "homepage": "https://github.com/juliasleeps/weather#readme",
+  "dependencies": {
+    "unirest": "^0.6.0"
+  }
 }

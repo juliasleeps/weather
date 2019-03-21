@@ -1,3 +1,5 @@
 var weather = require('./weather');
 
-weather.showWeather();
+weather.getWeather(function(data){
+    console.log(data);
+})
