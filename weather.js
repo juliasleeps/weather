@@ -1,3 +1,3 @@
 module.exports.showWeather = function(){
-    console.log('test')
+    console.log('test1')
 }
